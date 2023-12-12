@@ -7,18 +7,31 @@ My goal was mostly just to see how far I could go in making use of the expressiv
 The puzzle questions can be found at the links below. (you have to be logged in and have already submitted the correct 'part 1' solution in order to see 'part 2' of each question.)
 
 https://adventofcode.com/2015/day/1
+
 https://adventofcode.com/2015/day/2
+
 https://adventofcode.com/2015/day/3
+
 I skipped 4 because SQLite doesn't do MD5 hashes.
+
 https://adventofcode.com/2015/day/5
+
 https://adventofcode.com/2015/day/6 - I started this puzzle and never finished it.
 
 The answers associated with my input data were:
+
 1a) 138
+
 1b) 1771
+
 2a) 1606483
+
 2b) 3842356
+
 3a) 2565
+
 3b) 2639
+
 5a) 238
+
 5b) 69
